@@ -1,0 +1,174 @@
+{
+  "mobile": {
+    "scatter": {
+      "source": "scatter_1280x720.png",
+      "width": 112,
+      "height": 87,
+      "sha256": "68fb7674cde2c015efd7c38438bc2844c19f91aa62eeeef48c7e74e79b7975cd"
+    },
+    "crown": {
+      "source": "pic-A_1280x720.png",
+      "width": 112,
+      "height": 87,
+      "sha256": "d6f8413cdd846f67f401900d07783fd5e33b88f08fc2cb03366b48ac55dae907"
+    },
+    "cup": {
+      "source": "pic-B_1280x720.png",
+      "width": 112,
+      "height": 87,
+      "sha256": "c4448293b55c7b22e936ab84ed03c4ab8f45347537d058085c7099b176d7e417"
+    },
+    "ring": {
+      "source": "pic-C_1280x720.png",
+      "width": 112,
+      "height": 87,
+      "sha256": "73a40b5f891eea642069dc8a42414951cd80e8e82e9aed1000c9089f4bdf9219"
+    },
+    "horn": {
+      "source": "pic-D_1280x720.png",
+      "width": 112,
+      "height": 87,
+      "sha256": "9cb0f358224601bda660485c268de2e3cdcba349ffc9af9b1412dbde64a89c8a"
+    },
+    "gem_blue": {
+      "source": "5_1280x720.png",
+      "width": 112,
+      "height": 87,
+      "sha256": "e22196cb89c2f3e036e9fae28c46d04c37a7b3e6e283ab0f84e92b5cf56f91db"
+    },
+    "gem_green": {
+      "source": "4_1280x720.png",
+      "width": 112,
+      "height": 87,
+      "sha256": "c44a12834bb39a4831c0fb333db89de92ebc943a8995d3371897622266c368eb"
+    },
+    "gem_purple": {
+      "source": "3_1280x720.png",
+      "width": 112,
+      "height": 87,
+      "sha256": "6550a7643fdec052a3f4b9aedbd576b62b49cca16529d9c62c1b419c009254fc"
+    },
+    "gem_pink": {
+      "source": "1_1280x720.png",
+      "width": 112,
+      "height": 87,
+      "sha256": "141648a3fb6f377cd6544d956d6e6cae2daec6f69c2ec852a4ba226930a60524"
+    },
+    "gem_gold": {
+      "source": "2_1280x720.png",
+      "width": 112,
+      "height": 87,
+      "sha256": "ba26bd6944d0387bf24cafb64c479203b4c53e755b911eb924e3ab2c986292e5"
+    },
+    "mult_r": {
+      "source": "mult-1_1280x720.png",
+      "width": 112,
+      "height": 112,
+      "sha256": "46da4ef89b826204e065edb982054c41e6cb24391b9d497eb3b701b67162aa14"
+    },
+    "mult_b": {
+      "source": "mult-2_1280x720.png",
+      "width": 112,
+      "height": 112,
+      "sha256": "0e2919fdd2f35f80c33bc47b57cf0937056fd227083d161dcb826e0c0d56fe88"
+    },
+    "mult_g": {
+      "source": "mult-3_1280x720.png",
+      "width": 112,
+      "height": 112,
+      "sha256": "13d43b0b627323347d5ca2ebe7b439d3bd221893d3bbc704fbb63aa7cc88678a"
+    },
+    "mult_p": {
+      "source": "mult-4_1280x720.png",
+      "width": 112,
+      "height": 112,
+      "sha256": "b3283e5a68fb5c16a27601badada7b0682f4ce924b7a8f456b26e9e35217c690"
+    }
+  },
+  "desktop": {
+    "scatter": {
+      "source": "scatter_1920x1080.png",
+      "width": 160,
+      "height": 124,
+      "sha256": "8e20868a5774eb364a9e734eaae653c19ffb10222810b60224a9844cb4b9fec4"
+    },
+    "crown": {
+      "source": "pic-A_1920x1080.png",
+      "width": 160,
+      "height": 124,
+      "sha256": "416b00319516e1f2ad1b4d6b7e48fb013c8463e8b732f2c64dee2c7279f9f038"
+    },
+    "cup": {
+      "source": "pic-B_1920x1080.png",
+      "width": 160,
+      "height": 124,
+      "sha256": "7c3f0bc19926bd9928b1b0960bab816c6c39e1577eec760bdc2359f6c01d37cb"
+    },
+    "ring": {
+      "source": "pic-C_1920x1080.png",
+      "width": 160,
+      "height": 124,
+      "sha256": "8b586e5fa1f2fdf20a88bf3ba5bd847cf027c885fe76019917f6c9b6ad18a73f"
+    },
+    "horn": {
+      "source": "pic-D_1920x1080.png",
+      "width": 160,
+      "height": 124,
+      "sha256": "5d80da7d48fd485b5e625bf64ea65999c09cd48838fe22083edc542725b61217"
+    },
+    "gem_blue": {
+      "source": "5_1920x1080.png",
+      "width": 160,
+      "height": 124,
+      "sha256": "4f28d01173f1590bd9e45c7061fce4dad1e67f66cf76b84c5105bed18df521de"
+    },
+    "gem_green": {
+      "source": "4_1920x1080.png",
+      "width": 160,
+      "height": 124,
+      "sha256": "88fa57758b1c984442f1844c75ce13ca1f6d2ac7c6405ceda059e65b1de27e25"
+    },
+    "gem_purple": {
+      "source": "3_1920x1080.png",
+      "width": 160,
+      "height": 124,
+      "sha256": "4b41ee85f762fa948e38f6b23589be31b0ca955e8ef32d8198f53284e6ff1b6d"
+    },
+    "gem_pink": {
+      "source": "1_1920x1080.png",
+      "width": 160,
+      "height": 124,
+      "sha256": "741983270d9ea6bf7235a1a81c79136128e4d20a59ac2990ba3ddc0cb26fa226"
+    },
+    "gem_gold": {
+      "source": "2_1920x1080.png",
+      "width": 160,
+      "height": 124,
+      "sha256": "2095ac5d0ee46538ca15375c2ad077d8bc15dbadd68cb06529389d017e069d1b"
+    },
+    "mult_r": {
+      "source": "mult-1_1920x1080.png",
+      "width": 160,
+      "height": 160,
+      "sha256": "686350df17eeaf07a105aa5b25b6b10accc34e10c98b1e5637dd6f5228b2cd6a"
+    },
+    "mult_b": {
+      "source": "mult-2_1920x1080.png",
+      "width": 160,
+      "height": 160,
+      "sha256": "65dbfc5c65f544274b40535774994280e6850151f5445e97a159c629ecf83c45"
+    },
+    "mult_g": {
+      "source": "mult-3_1920x1080.png",
+      "width": 160,
+      "height": 160,
+      "sha256": "e105a2e27d774cf8f52dd119a969e3ac403f915426dc849f329992aa2f74827d"
+    },
+    "mult_p": {
+      "source": "mult-4_1920x1080.png",
+      "width": 160,
+      "height": 160,
+      "sha256": "1675e8cb652a7ae59ea669f3807810059fb337f1550b87348faaaae8aafae513"
+    }
+  }
+}
