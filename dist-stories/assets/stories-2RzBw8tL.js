@@ -1,0 +1,1 @@
+import{E as e,k as t,t as n,u as r}from"./Storybook-DmZPxh41.js";var i=t(),a=r();e({code:`BYN`,symbol:`BYN`,exponent:2,subunits:100}),document.title=`Asgard Riches — states`,(0,i.createRoot)(document.getElementById(`root`)).render((0,a.jsx)(n,{}));
